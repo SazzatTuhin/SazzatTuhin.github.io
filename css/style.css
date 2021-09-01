@@ -1,3 +1,369 @@
+
+
+
+ /* start font section  */
+
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+/* end font section  */
+
+
+
+
+
+/* start banner section  */
+
+.banner-container{
+    background-color: #414141 ;
+
+}
+
+/* end banner section  */
+
+
+
+
+
+/* start banner-column section  */
+
+.banner-column{
+    background-color: #BABABA;
+}
+
+
+/* end banner-column section  */
+
+
+
+
+/* start navbar section  */
+
+.navbar-container{
+    top: 0%;
+    background-color: #000000;
+    position: sticky;
+    z-index: 2;
+}
+
+/* end navbar section  */
+
+
+
+
+
+/* start about section  */
+.about-container{
+
+    background-color: #018688;
+}
+
+/* end about section  */
+
+
+
+
+
+
+/* start education section  */
+
+
+
+
+
+.education-container{
+    background-color: #FFFEFF;
+
+}
+
+
+
+
+/* end education section  */
+
+
+
+
+/* statr for bg-redtype color  */
+
+
+
+
+.bg-redtype{
+    background-color: #FA8581;
+
+}
+
+.bg-redtype:hover{
+    color: black!important;
+
+}
+
+.redtype-color{
+    color: #FA8581;
+}
+
+
+
+
+/* end bg-redtype color  */
+
+
+
+
+
+/* start for circle */
+
+
+.circle{
+
+    background-color: #FA8581 ;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+
+}
+
+
+
+/* end for circle  */
+
+
+
+
+
+
+
+
+/* start for project section  */
+
+.project-container{
+
+    background-color: #2CB2DD;
+    
+}
+
+
+
+
+/* end for project section  */
+
+
+
+
+
+
+
+
+/* statrt contact section  */
+
+.from-container{
+    
+    background-color: #484C5F;
+    padding: 20px;
+    
+
+}
+
+.inner-form{
+    background-color: #51576B;
+    
+    margin-right: 10px;
+
+
+}
+
+
+
+
+
+
+/* end contact section  */
+
+
+
+
+
+
+
+
+
+/* start for footer section  */
+
+.footer{
+
+    background-color:  #2CB2DD;
+
+
+}
+
+.sub_circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:black;
+    font-size: 40px;
+    text-align: center;
+    color:  #2CB2DD;
+
+}
+
+
+.sub_circle:hover{
+    
+    background-color: #51576B ;
+    
+
+}
+
+
+
+/* end for footer section  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+/* .education-container{
+    background-color: #4c1980;
+}
+
+.bg-redtype{
+    background-color: #FD847C;
+}
+.bg-redtype:hover{
+    color: black!important;
+}
+
+
+.redtype-color{
+    color: #FD847C;
+}
+
+.circle{
+    background-color: #FD847C;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+
+.project-container{
+    background-color:#2CB2DD;
+    
+}
+
+.from-container{
+
+    background-color: #484C5F;
+}
+
+.inner-form{
+    background-color: #595F74;
+}
+
+.footer{
+    background-color: #2CB2DD;
+}
+
+.circle{
+    width: 40px;
+    height: 40px;
+    
+    display: inline-block;
+    background-color:white;
+    font-size: 40px;
+    text-align: center;
+
+    
+}
+
+/* Start Portfolio */
+
+/* .portfolio{
+
+}
+ul{
+
+}
+
+li{
+
+}
+.portfolio ul li:hover{
+
+
+}
+End Portfolio */ */
